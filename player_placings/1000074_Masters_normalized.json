@@ -1,0 +1,4058 @@
+[
+  {
+    "name": "Joseph Ugarte [US]",
+    "placing": 1
+  },
+  {
+    "name": "Andrew Figueras [US]",
+    "placing": 2
+  },
+  {
+    "name": "Dorian Kang [CA]",
+    "placing": 3
+  },
+  {
+    "name": "JJ Miller [US]",
+    "placing": 4
+  },
+  {
+    "name": "Ryan Loseto [CA]",
+    "placing": 5
+  },
+  {
+    "name": "Toler Webb [US]",
+    "placing": 6
+  },
+  {
+    "name": "Keanu Inosanto [US]",
+    "placing": 7
+  },
+  {
+    "name": "Brian Hough [US]",
+    "placing": 8
+  },
+  {
+    "name": "Paul Chua [US]",
+    "placing": 9
+  },
+  {
+    "name": "Cary D'Ortona [US]",
+    "placing": 10
+  },
+  {
+    "name": "Justin Burns [US]",
+    "placing": 11
+  },
+  {
+    "name": "Yichun Wu [CN]",
+    "placing": 12
+  },
+  {
+    "name": "Caden Croft [US]",
+    "placing": 13
+  },
+  {
+    "name": "Carson Confer [US]",
+    "placing": 14
+  },
+  {
+    "name": "Wyatt Fout [US]",
+    "placing": 15
+  },
+  {
+    "name": "London Faust [US]",
+    "placing": 16
+  },
+  {
+    "name": "Joey Scudiero [US]",
+    "placing": 17
+  },
+  {
+    "name": "Cody Hruby [US]",
+    "placing": 18
+  },
+  {
+    "name": "Bobby Rochelle [US]",
+    "placing": 19
+  },
+  {
+    "name": "Ethan Rauchwerk [US]",
+    "placing": 20
+  },
+  {
+    "name": "Luca Santelli [CA]",
+    "placing": 21
+  },
+  {
+    "name": "Jacob Acker [US]",
+    "placing": 22
+  },
+  {
+    "name": "Nick Navarre [US]",
+    "placing": 23
+  },
+  {
+    "name": "Josiah Kim [US]",
+    "placing": 24
+  },
+  {
+    "name": "Callie Murray [US]",
+    "placing": 25
+  },
+  {
+    "name": "Nicholas Hegel [US]",
+    "placing": 26
+  },
+  {
+    "name": "Nicholas Donnelly [US]",
+    "placing": 27
+  },
+  {
+    "name": "Enrique Grimaldo [US]",
+    "placing": 28
+  },
+  {
+    "name": "Matthew Woodruff [US]",
+    "placing": 29
+  },
+  {
+    "name": "Dominic Vogel [US]",
+    "placing": 30
+  },
+  {
+    "name": "Joey McGinley [US]",
+    "placing": 31
+  },
+  {
+    "name": "Bailey McCall [US]",
+    "placing": 32
+  },
+  {
+    "name": "Kai Morton [US]",
+    "placing": 33
+  },
+  {
+    "name": "Apollo Stephens [US]",
+    "placing": 34
+  },
+  {
+    "name": "Zachary Weed [US]",
+    "placing": 35
+  },
+  {
+    "name": "Andrew Cavanah [US]",
+    "placing": 36
+  },
+  {
+    "name": "Ryne Garrett [US]",
+    "placing": 37
+  },
+  {
+    "name": "Elijah Peeples [US]",
+    "placing": 38
+  },
+  {
+    "name": "Kimari Gammage [US]",
+    "placing": 39
+  },
+  {
+    "name": "Billy Whyte [US]",
+    "placing": 40
+  },
+  {
+    "name": "Pranav Sharma [US]",
+    "placing": 41
+  },
+  {
+    "name": "Anthony Hui [US]",
+    "placing": 42
+  },
+  {
+    "name": "Ryne Conley [US]",
+    "placing": 43
+  },
+  {
+    "name": "Luke Rollins [US]",
+    "placing": 44
+  },
+  {
+    "name": "William Brown [US]",
+    "placing": 45
+  },
+  {
+    "name": "Thomas Irwin [US]",
+    "placing": 46
+  },
+  {
+    "name": "Tanner Mask [US]",
+    "placing": 47
+  },
+  {
+    "name": "Logan Mazur [US]",
+    "placing": 48
+  },
+  {
+    "name": "Connor Sparks [US]",
+    "placing": 49
+  },
+  {
+    "name": "Alex Rubinoff [US]",
+    "placing": 50
+  },
+  {
+    "name": "Santino Tarquinio [US]",
+    "placing": 51
+  },
+  {
+    "name": "Seaver Lyddane [US]",
+    "placing": 52
+  },
+  {
+    "name": "Matthew Faucett [US]",
+    "placing": 53
+  },
+  {
+    "name": "Alex Archambault [US]",
+    "placing": 54
+  },
+  {
+    "name": "Rockwell Anyoha [US]",
+    "placing": 55
+  },
+  {
+    "name": "Brian Theis [US]",
+    "placing": 56
+  },
+  {
+    "name": "Jimmy Friedle [US]",
+    "placing": 57
+  },
+  {
+    "name": "Esa Ishaque [CA]",
+    "placing": 58
+  },
+  {
+    "name": "Kylan Van Severen [CA]",
+    "placing": 59
+  },
+  {
+    "name": "Alex Madara [US]",
+    "placing": 60
+  },
+  {
+    "name": "Avery Biery [US]",
+    "placing": 61
+  },
+  {
+    "name": "Junxi Zhu [US]",
+    "placing": 62
+  },
+  {
+    "name": "Andy Hovis [US]",
+    "placing": 63
+  },
+  {
+    "name": "Jonathan Chemburkar [US]",
+    "placing": 64
+  },
+  {
+    "name": "Joshua Robinson [US]",
+    "placing": 65
+  },
+  {
+    "name": "Wolfe Glick [US]",
+    "placing": 66
+  },
+  {
+    "name": "Olivia Moledzki [CA]",
+    "placing": 67
+  },
+  {
+    "name": "Anthony Lugenbeal [US]",
+    "placing": 68
+  },
+  {
+    "name": "Lev Shkolnikov [CA]",
+    "placing": 69
+  },
+  {
+    "name": "Lauri Halonen [FI]",
+    "placing": 70
+  },
+  {
+    "name": "Rily Corn [US]",
+    "placing": 71
+  },
+  {
+    "name": "Matt Schmucker [US]",
+    "placing": 72
+  },
+  {
+    "name": "Ethan Trejo [US]",
+    "placing": 73
+  },
+  {
+    "name": "Nathaniel Sitler [US]",
+    "placing": 74
+  },
+  {
+    "name": "Kevin Swastek [US]",
+    "placing": 75
+  },
+  {
+    "name": "Michael Jessup [US]",
+    "placing": 76
+  },
+  {
+    "name": "Colton Woodring [US]",
+    "placing": 77
+  },
+  {
+    "name": "Daniel Medina [US]",
+    "placing": 78
+  },
+  {
+    "name": "RJ White [US]",
+    "placing": 79
+  },
+  {
+    "name": "Nick Willems [US]",
+    "placing": 80
+  },
+  {
+    "name": "Tevon Knight [US]",
+    "placing": 81
+  },
+  {
+    "name": "KaSun Thompson [US]",
+    "placing": 82
+  },
+  {
+    "name": "Griffin Peters [US]",
+    "placing": 83
+  },
+  {
+    "name": "Quin Pruett [US]",
+    "placing": 84
+  },
+  {
+    "name": "Dan Hopper [CA]",
+    "placing": 85
+  },
+  {
+    "name": "Richard Mogollon [US]",
+    "placing": 86
+  },
+  {
+    "name": "Hersh Gupta [US]",
+    "placing": 87
+  },
+  {
+    "name": "Charpie Torres [US]",
+    "placing": 88
+  },
+  {
+    "name": "Benjamin Jones [US]",
+    "placing": 89
+  },
+  {
+    "name": "Gianna Laird [US]",
+    "placing": 90
+  },
+  {
+    "name": "Ben Wiseman [US]",
+    "placing": 91
+  },
+  {
+    "name": "Christian Riewerts [US]",
+    "placing": 92
+  },
+  {
+    "name": "Marcus Dion [CA]",
+    "placing": 93
+  },
+  {
+    "name": "Jackson Ferris [US]",
+    "placing": 94
+  },
+  {
+    "name": "Cole Basham [US]",
+    "placing": 95
+  },
+  {
+    "name": "Garret Martin [US]",
+    "placing": 96
+  },
+  {
+    "name": "Nicholas Borghi [US]",
+    "placing": 97
+  },
+  {
+    "name": "Edward Glover [US]",
+    "placing": 98
+  },
+  {
+    "name": "Ryan Reagan [US]",
+    "placing": 99
+  },
+  {
+    "name": "Samad Ahmed [US]",
+    "placing": 100
+  },
+  {
+    "name": "Sierra Elsbecker [US]",
+    "placing": 101
+  },
+  {
+    "name": "Matthew Carter [US]",
+    "placing": 102
+  },
+  {
+    "name": "Gilbert Yao [US]",
+    "placing": 103
+  },
+  {
+    "name": "Chris Wolfe [US]",
+    "placing": 104
+  },
+  {
+    "name": "Christopher Baez [US]",
+    "placing": 105
+  },
+  {
+    "name": "Matthew Cross [US]",
+    "placing": 106
+  },
+  {
+    "name": "Charlie Stray [US]",
+    "placing": 107
+  },
+  {
+    "name": "Adam Warren [US]",
+    "placing": 108
+  },
+  {
+    "name": "Richard Heyne [US]",
+    "placing": 109
+  },
+  {
+    "name": "Sasha Bateman [US]",
+    "placing": 110
+  },
+  {
+    "name": "Jake Smith [US]",
+    "placing": 111
+  },
+  {
+    "name": "Alex Tu [US]",
+    "placing": 112
+  },
+  {
+    "name": "William Lesko [US]",
+    "placing": 113
+  },
+  {
+    "name": "Beau Woodcock [US]",
+    "placing": 114
+  },
+  {
+    "name": "Andrew Vasel [US]",
+    "placing": 115
+  },
+  {
+    "name": "Anthony Londergan [US]",
+    "placing": 116
+  },
+  {
+    "name": "Owen Mackenzie [US]",
+    "placing": 117
+  },
+  {
+    "name": "Gabriel Hartman [US]",
+    "placing": 118
+  },
+  {
+    "name": "Lake Spohn [US]",
+    "placing": 119
+  },
+  {
+    "name": "Garrett Wilson [US]",
+    "placing": 120
+  },
+  {
+    "name": "Tori Erhartic [US]",
+    "placing": 121
+  },
+  {
+    "name": "Mohamed Ibrahim [US]",
+    "placing": 122
+  },
+  {
+    "name": "Lachlan Woods [US]",
+    "placing": 123
+  },
+  {
+    "name": "Kyler Peasnall [US]",
+    "placing": 124
+  },
+  {
+    "name": "Jeffrey Lott [US]",
+    "placing": 125
+  },
+  {
+    "name": "Scott Csordas [CA]",
+    "placing": 126
+  },
+  {
+    "name": "Eli Shinn [US]",
+    "placing": 127
+  },
+  {
+    "name": "Baby Singh [US]",
+    "placing": 128
+  },
+  {
+    "name": "Parker Simmons [US]",
+    "placing": 129
+  },
+  {
+    "name": "zoe Jenkins [US]",
+    "placing": 130
+  },
+  {
+    "name": "Justin Crubaugh [US]",
+    "placing": 131
+  },
+  {
+    "name": "Huston Rhodes [US]",
+    "placing": 132
+  },
+  {
+    "name": "Jered Hunn [US]",
+    "placing": 133
+  },
+  {
+    "name": "Troy Garcia [US]",
+    "placing": 134
+  },
+  {
+    "name": "Michael Waguespack [US]",
+    "placing": 135
+  },
+  {
+    "name": "Ziyi Zhao [US]",
+    "placing": 136
+  },
+  {
+    "name": "Remington Steedley [US]",
+    "placing": 137
+  },
+  {
+    "name": "Sophie Scott [US]",
+    "placing": 138
+  },
+  {
+    "name": "Vince Atienza-Vergara [CA]",
+    "placing": 139
+  },
+  {
+    "name": "Emma Mistler [US]",
+    "placing": 140
+  },
+  {
+    "name": "James Messerly [US]",
+    "placing": 141
+  },
+  {
+    "name": "Anthony Saelzer [US]",
+    "placing": 142
+  },
+  {
+    "name": "Zach Knight [US]",
+    "placing": 143
+  },
+  {
+    "name": "Ian Conway [US]",
+    "placing": 144
+  },
+  {
+    "name": "Nolan Vanderheyden [US]",
+    "placing": 145
+  },
+  {
+    "name": "Daniel Yu [US]",
+    "placing": 146
+  },
+  {
+    "name": "Aidan Patterson [US]",
+    "placing": 147
+  },
+  {
+    "name": "Zach Holowiak [US]",
+    "placing": 148
+  },
+  {
+    "name": "Michael Aprile [US]",
+    "placing": 149
+  },
+  {
+    "name": "Dylan Salter [US]",
+    "placing": 150
+  },
+  {
+    "name": "Riley Wilcox [US]",
+    "placing": 151
+  },
+  {
+    "name": "Joseph Cartin [US]",
+    "placing": 152
+  },
+  {
+    "name": "Jakob Bush [US]",
+    "placing": 153
+  },
+  {
+    "name": "Matt Tennant [CA]",
+    "placing": 154
+  },
+  {
+    "name": "David Lees [US]",
+    "placing": 155
+  },
+  {
+    "name": "Stephen Palombo [US]",
+    "placing": 156
+  },
+  {
+    "name": "Jacob Mortenson [US]",
+    "placing": 157
+  },
+  {
+    "name": "Kyle Ryan [US]",
+    "placing": 158
+  },
+  {
+    "name": "Stephen Brown [US]",
+    "placing": 159
+  },
+  {
+    "name": "Alex Hoak [US]",
+    "placing": 160
+  },
+  {
+    "name": "Taylor T [US]",
+    "placing": 161
+  },
+  {
+    "name": "Devin Dalton [US]",
+    "placing": 162
+  },
+  {
+    "name": "Jacob Armatis [US]",
+    "placing": 163
+  },
+  {
+    "name": "Austin Le [US]",
+    "placing": 164
+  },
+  {
+    "name": "Noah Kahn [US]",
+    "placing": 165
+  },
+  {
+    "name": "Austin Belland [CA]",
+    "placing": 166
+  },
+  {
+    "name": "Arthur Aguiar [BR]",
+    "placing": 167
+  },
+  {
+    "name": "Karl Grossniklaus [US]",
+    "placing": 168
+  },
+  {
+    "name": "Raymond Dolan [US]",
+    "placing": 169
+  },
+  {
+    "name": "Thomas McCready [US]",
+    "placing": 170
+  },
+  {
+    "name": "Tyler Coleman [US]",
+    "placing": 171
+  },
+  {
+    "name": "Wyatt Taylor [US]",
+    "placing": 172
+  },
+  {
+    "name": "Landon Morjal [US]",
+    "placing": 173
+  },
+  {
+    "name": "inder gill [CA]",
+    "placing": 174
+  },
+  {
+    "name": "Connor Barrios [US]",
+    "placing": 175
+  },
+  {
+    "name": "Jeremiah Paul [US]",
+    "placing": 176
+  },
+  {
+    "name": "Nathan Fellerman [US]",
+    "placing": 177
+  },
+  {
+    "name": "Samuel Thompson [US]",
+    "placing": 178
+  },
+  {
+    "name": "Matthew Hansen [US]",
+    "placing": 179
+  },
+  {
+    "name": "Alfredo Tamayo [US]",
+    "placing": 180
+  },
+  {
+    "name": "Matthew Starzyk [US]",
+    "placing": 181
+  },
+  {
+    "name": "Kent Wong [US]",
+    "placing": 182
+  },
+  {
+    "name": "Aaron Schaupp [US]",
+    "placing": 183
+  },
+  {
+    "name": "Daniel Boismier [US]",
+    "placing": 184
+  },
+  {
+    "name": "Eric Ault [US]",
+    "placing": 185
+  },
+  {
+    "name": "Tyler Hagan [US]",
+    "placing": 186
+  },
+  {
+    "name": "Ashley Scobey [US]",
+    "placing": 187
+  },
+  {
+    "name": "MJ Rogers [US]",
+    "placing": 188
+  },
+  {
+    "name": "Gareth Jones [US]",
+    "placing": 189
+  },
+  {
+    "name": "Zachary Mnich [US]",
+    "placing": 190
+  },
+  {
+    "name": "Chris Millard [US]",
+    "placing": 191
+  },
+  {
+    "name": "Chase Matteo [US]",
+    "placing": 192
+  },
+  {
+    "name": "Nicholas Morales [US]",
+    "placing": 193
+  },
+  {
+    "name": "Andrew McNatt [US]",
+    "placing": 194
+  },
+  {
+    "name": "Ethan Sommer [US]",
+    "placing": 195
+  },
+  {
+    "name": "Liam Saroca [US]",
+    "placing": 196
+  },
+  {
+    "name": "Gerald Hoard [US]",
+    "placing": 197
+  },
+  {
+    "name": "Marlox Enriquez [US]",
+    "placing": 198
+  },
+  {
+    "name": "Rowan Hall [US]",
+    "placing": 199
+  },
+  {
+    "name": "Tyson Gregory [US]",
+    "placing": 200
+  },
+  {
+    "name": "Haadi S. [US]",
+    "placing": 201
+  },
+  {
+    "name": "Mark Jackson [US]",
+    "placing": 202
+  },
+  {
+    "name": "Austin Magro [US]",
+    "placing": 203
+  },
+  {
+    "name": "Drew Presley [US]",
+    "placing": 204
+  },
+  {
+    "name": "Bernard Herron [US]",
+    "placing": 205
+  },
+  {
+    "name": "Rishi Gupta [US]",
+    "placing": 206
+  },
+  {
+    "name": "Mason Cutler [US]",
+    "placing": 207
+  },
+  {
+    "name": "Zane Brooks [US]",
+    "placing": 208
+  },
+  {
+    "name": "Seung Song [US]",
+    "placing": 209
+  },
+  {
+    "name": "Jeff Okoro [US]",
+    "placing": 210
+  },
+  {
+    "name": "Bijan Tahmassebi [US]",
+    "placing": 211
+  },
+  {
+    "name": "Johnathan Porter [DE]",
+    "placing": 212
+  },
+  {
+    "name": "Aditya Subramanian [US]",
+    "placing": 213
+  },
+  {
+    "name": "Evan Mitchell [US]",
+    "placing": 214
+  },
+  {
+    "name": "Isaac Schubert [US]",
+    "placing": 215
+  },
+  {
+    "name": "Gregory Gapusan [US]",
+    "placing": 216
+  },
+  {
+    "name": "Adrian Russo [US]",
+    "placing": 217
+  },
+  {
+    "name": "Hayden Dely [CA]",
+    "placing": 218
+  },
+  {
+    "name": "Justin Frys [US]",
+    "placing": 219
+  },
+  {
+    "name": "Jordan Wiseman [US]",
+    "placing": 220
+  },
+  {
+    "name": "Fernando Ugarte [US]",
+    "placing": 221
+  },
+  {
+    "name": "Daniel Gentry [US]",
+    "placing": 222
+  },
+  {
+    "name": "Rocco Beckman [US]",
+    "placing": 223
+  },
+  {
+    "name": "Matthew Irwin [US]",
+    "placing": 224
+  },
+  {
+    "name": "Gavin Michaels [US]",
+    "placing": 225
+  },
+  {
+    "name": "Elijah Guadalupe [US]",
+    "placing": 226
+  },
+  {
+    "name": "Jeffrey Lehmann [US]",
+    "placing": 227
+  },
+  {
+    "name": "Jeremy Barnes [US]",
+    "placing": 228
+  },
+  {
+    "name": "Sean Stachorek [US]",
+    "placing": 229
+  },
+  {
+    "name": "Albert Hwang [US]",
+    "placing": 230
+  },
+  {
+    "name": "Andrew Figlewski [US]",
+    "placing": 231
+  },
+  {
+    "name": "Rohan Potti [US]",
+    "placing": 232
+  },
+  {
+    "name": "Mason Lee [US]",
+    "placing": 233
+  },
+  {
+    "name": "Ned Pfeiffer [US]",
+    "placing": 234
+  },
+  {
+    "name": "Colby Lathrop [US]",
+    "placing": 235
+  },
+  {
+    "name": "Kelsei Green [US]",
+    "placing": 236
+  },
+  {
+    "name": "Caleb Ellis [US]",
+    "placing": 237
+  },
+  {
+    "name": "Alyssa Smith [US]",
+    "placing": 238
+  },
+  {
+    "name": "Daniel Ryan [US]",
+    "placing": 239
+  },
+  {
+    "name": "Ellie Homen [US]",
+    "placing": 240
+  },
+  {
+    "name": "David Markin [US]",
+    "placing": 241
+  },
+  {
+    "name": "Benjamin Woodruff [US]",
+    "placing": 242
+  },
+  {
+    "name": "Brandon Martin [US]",
+    "placing": 243
+  },
+  {
+    "name": "Willow Quinn [US]",
+    "placing": 244
+  },
+  {
+    "name": "Tyler Coady [CA]",
+    "placing": 245
+  },
+  {
+    "name": "Harley Reno [US]",
+    "placing": 246
+  },
+  {
+    "name": "James Dimarco [US]",
+    "placing": 247
+  },
+  {
+    "name": "Collin Beer [US]",
+    "placing": 248
+  },
+  {
+    "name": "Samuel Stoke [US]",
+    "placing": 249
+  },
+  {
+    "name": "Charles Rosales [US]",
+    "placing": 250
+  },
+  {
+    "name": "Brendan Przywara [US]",
+    "placing": 251
+  },
+  {
+    "name": "Jacob McWilliams [US]",
+    "placing": 252
+  },
+  {
+    "name": "Collin Heier [US]",
+    "placing": 253
+  },
+  {
+    "name": "Austin Choi [US]",
+    "placing": 254
+  },
+  {
+    "name": "Peter Espy [US]",
+    "placing": 255
+  },
+  {
+    "name": "Noah Gold [US]",
+    "placing": 256
+  },
+  {
+    "name": "Anderson Lee [US]",
+    "placing": 257
+  },
+  {
+    "name": "Zach Aufdemberge [US]",
+    "placing": 258
+  },
+  {
+    "name": "Amelia Taylor [US]",
+    "placing": 259
+  },
+  {
+    "name": "Will Vega [US]",
+    "placing": 260
+  },
+  {
+    "name": "Kristian Jordan [US]",
+    "placing": 261
+  },
+  {
+    "name": "Steven Stark [US]",
+    "placing": 262
+  },
+  {
+    "name": "Noah Smith [US]",
+    "placing": 263
+  },
+  {
+    "name": "Ainsley Villafana [US]",
+    "placing": 264
+  },
+  {
+    "name": "Aaron Riker [US]",
+    "placing": 265
+  },
+  {
+    "name": "Jakob Graff [US]",
+    "placing": 266
+  },
+  {
+    "name": "Alyse Johnson [US]",
+    "placing": 267
+  },
+  {
+    "name": "Colby Mearns [US]",
+    "placing": 268
+  },
+  {
+    "name": "Randy Lawson [US]",
+    "placing": 269
+  },
+  {
+    "name": "Joseph Eckhart [US]",
+    "placing": 270
+  },
+  {
+    "name": "Jacob Garry [US]",
+    "placing": 271
+  },
+  {
+    "name": "Kyle Gurzell [US]",
+    "placing": 272
+  },
+  {
+    "name": "Tristan Kuiper [US]",
+    "placing": 273
+  },
+  {
+    "name": "Aaron Perez [US]",
+    "placing": 274
+  },
+  {
+    "name": "Khadar Houssien [US]",
+    "placing": 275
+  },
+  {
+    "name": "Collin Taylor [US]",
+    "placing": 276
+  },
+  {
+    "name": "Evan Thompson [US]",
+    "placing": 277
+  },
+  {
+    "name": "Ethan Shaffer [US]",
+    "placing": 278
+  },
+  {
+    "name": "Isaac Williams [US]",
+    "placing": 279
+  },
+  {
+    "name": "Eduardo Ramirez [DO]",
+    "placing": 280
+  },
+  {
+    "name": "AJ Morton [US]",
+    "placing": 281
+  },
+  {
+    "name": "Joseph Kwan [US]",
+    "placing": 282
+  },
+  {
+    "name": "Sean Worcester [US]",
+    "placing": 283
+  },
+  {
+    "name": "Autumn Bannister [US]",
+    "placing": 284
+  },
+  {
+    "name": "Andrew Gouck [US]",
+    "placing": 285
+  },
+  {
+    "name": "Carter Currin [US]",
+    "placing": 286
+  },
+  {
+    "name": "Alex Dohany [US]",
+    "placing": 287
+  },
+  {
+    "name": "Evan Patterson [US]",
+    "placing": 288
+  },
+  {
+    "name": "Carter Myers [US]",
+    "placing": 289
+  },
+  {
+    "name": "Joey Woodring [US]",
+    "placing": 290
+  },
+  {
+    "name": "Kyle Houston [US]",
+    "placing": 291
+  },
+  {
+    "name": "Dorian Cox [US]",
+    "placing": 292
+  },
+  {
+    "name": "Nicholas Follo [US]",
+    "placing": 293
+  },
+  {
+    "name": "Xavier Williams [US]",
+    "placing": 294
+  },
+  {
+    "name": "Luke Andersen [US]",
+    "placing": 295
+  },
+  {
+    "name": "Drew Massey [US]",
+    "placing": 296
+  },
+  {
+    "name": "Lorenzo Arce [US]",
+    "placing": 297
+  },
+  {
+    "name": "Leah Ramsier [US]",
+    "placing": 298
+  },
+  {
+    "name": "Gwen Edgar [US]",
+    "placing": 299
+  },
+  {
+    "name": "Sishir Chilakamarri [US]",
+    "placing": 300
+  },
+  {
+    "name": "Rosa Anway [US]",
+    "placing": 301
+  },
+  {
+    "name": "Liam Lundvall [US]",
+    "placing": 302
+  },
+  {
+    "name": "Caomhan Daykin [US]",
+    "placing": 303
+  },
+  {
+    "name": "Ryan Stahler [US]",
+    "placing": 304
+  },
+  {
+    "name": "Giovanni Aranibar [BO]",
+    "placing": 305
+  },
+  {
+    "name": "Elena Mojica [US]",
+    "placing": 306
+  },
+  {
+    "name": "Stephen Morioka [US]",
+    "placing": 307
+  },
+  {
+    "name": "Gavin LaRusso [US]",
+    "placing": 308
+  },
+  {
+    "name": "Jonah Williams [US]",
+    "placing": 309
+  },
+  {
+    "name": "Thomas Marsland [US]",
+    "placing": 310
+  },
+  {
+    "name": "Andres Wilkerson [US]",
+    "placing": 311
+  },
+  {
+    "name": "Justin Jimenez [US]",
+    "placing": 312
+  },
+  {
+    "name": "Gabriel Willenberg [US]",
+    "placing": 313
+  },
+  {
+    "name": "Joseph Lesko [US]",
+    "placing": 314
+  },
+  {
+    "name": "Nathan Isaacs [US]",
+    "placing": 315
+  },
+  {
+    "name": "Patrick Connors [US]",
+    "placing": 316
+  },
+  {
+    "name": "Seung Lee [US]",
+    "placing": 317
+  },
+  {
+    "name": "Micah Homick [US]",
+    "placing": 318
+  },
+  {
+    "name": "Aaron Rousseau [US]",
+    "placing": 319
+  },
+  {
+    "name": "Kian Campbell [US]",
+    "placing": 320
+  },
+  {
+    "name": "Nate Beals [US]",
+    "placing": 321
+  },
+  {
+    "name": "Marcos Perez [US]",
+    "placing": 322
+  },
+  {
+    "name": "joshua Swain [US]",
+    "placing": 323
+  },
+  {
+    "name": "Kyle Bray [US]",
+    "placing": 324
+  },
+  {
+    "name": "Hunter Scott [US]",
+    "placing": 325
+  },
+  {
+    "name": "Evergreen Spanos [US]",
+    "placing": 326
+  },
+  {
+    "name": "Kendall Adams [US]",
+    "placing": 327
+  },
+  {
+    "name": "Lindsey Henderson-Zintz [US]",
+    "placing": 328
+  },
+  {
+    "name": "Conner Pietrusinski [US]",
+    "placing": 329
+  },
+  {
+    "name": "Joey Handley [US]",
+    "placing": 330
+  },
+  {
+    "name": "Adnan Askari [US]",
+    "placing": 331
+  },
+  {
+    "name": "Sean Kochhar [US]",
+    "placing": 332
+  },
+  {
+    "name": "Paul Miller [US]",
+    "placing": 333
+  },
+  {
+    "name": "Victor Magre [US]",
+    "placing": 334
+  },
+  {
+    "name": "David Neal Jr. [US]",
+    "placing": 335
+  },
+  {
+    "name": "Patrick Dillon [US]",
+    "placing": 336
+  },
+  {
+    "name": "Jacob Bentley [US]",
+    "placing": 337
+  },
+  {
+    "name": "Torey Powers [US]",
+    "placing": 338
+  },
+  {
+    "name": "Lane Weber [US]",
+    "placing": 339
+  },
+  {
+    "name": "Aaron Wegter [US]",
+    "placing": 340
+  },
+  {
+    "name": "Cameron Rosenfeld [US]",
+    "placing": 341
+  },
+  {
+    "name": "Kathryn Nowak [US]",
+    "placing": 342
+  },
+  {
+    "name": "Jason Lott [US]",
+    "placing": 343
+  },
+  {
+    "name": "Brian Pattison [US]",
+    "placing": 344
+  },
+  {
+    "name": "Luke Stanley [US]",
+    "placing": 345
+  },
+  {
+    "name": "Brady Ratzmann [US]",
+    "placing": 346
+  },
+  {
+    "name": "Ethan Haberle [US]",
+    "placing": 347
+  },
+  {
+    "name": "Dr. Ectis Velazquez [US]",
+    "placing": 348
+  },
+  {
+    "name": "Craig Hilemon [US]",
+    "placing": 349
+  },
+  {
+    "name": "Jackson Kostantin [US]",
+    "placing": 350
+  },
+  {
+    "name": "Jordan Arney [US]",
+    "placing": 351
+  },
+  {
+    "name": "Charlie Reifinger [US]",
+    "placing": 352
+  },
+  {
+    "name": "Thomas Dick [US]",
+    "placing": 353
+  },
+  {
+    "name": "Spencer Mortvedt [US]",
+    "placing": 354
+  },
+  {
+    "name": "Andrew Xu [US]",
+    "placing": 355
+  },
+  {
+    "name": "Rowan Stavenow [CA]",
+    "placing": 356
+  },
+  {
+    "name": "Jacob O'Connor [US]",
+    "placing": 357
+  },
+  {
+    "name": "William Kodama [US]",
+    "placing": 358
+  },
+  {
+    "name": "Logan Lucero [CA]",
+    "placing": 359
+  },
+  {
+    "name": "Celeste Scalzo [US]",
+    "placing": 360
+  },
+  {
+    "name": "Omar Andrade [US]",
+    "placing": 361
+  },
+  {
+    "name": "Austin Courtney [US]",
+    "placing": 362
+  },
+  {
+    "name": "Noah Hollenbach [US]",
+    "placing": 363
+  },
+  {
+    "name": "Dominic Johnson [US]",
+    "placing": 364
+  },
+  {
+    "name": "Jonathon Houchin [US]",
+    "placing": 365
+  },
+  {
+    "name": "Wardell Manor III [US]",
+    "placing": 366
+  },
+  {
+    "name": "Kyle Drake Icban [US]",
+    "placing": 367
+  },
+  {
+    "name": "Joel Hernandez [US]",
+    "placing": 368
+  },
+  {
+    "name": "Andrew Coxwell [US]",
+    "placing": 369
+  },
+  {
+    "name": "Adam Holt [US]",
+    "placing": 370
+  },
+  {
+    "name": "Eusebio Lira [US]",
+    "placing": 371
+  },
+  {
+    "name": "Karl Kopczynski [US]",
+    "placing": 372
+  },
+  {
+    "name": "Fidel Martinez [US]",
+    "placing": 373
+  },
+  {
+    "name": "Darius Helmick [US]",
+    "placing": 374
+  },
+  {
+    "name": "Alexa Perez [US]",
+    "placing": 375
+  },
+  {
+    "name": "Jonathan Melendez [US]",
+    "placing": 376
+  },
+  {
+    "name": "Colin Jacobson [US]",
+    "placing": 377
+  },
+  {
+    "name": "Leonard Turney [US]",
+    "placing": 378
+  },
+  {
+    "name": "Erik Ewalt [US]",
+    "placing": 379
+  },
+  {
+    "name": "Chris Lee [US]",
+    "placing": 380
+  },
+  {
+    "name": "Ben Foust [US]",
+    "placing": 381
+  },
+  {
+    "name": "Anthony Vega [US]",
+    "placing": 382
+  },
+  {
+    "name": "Douglas Whitney [US]",
+    "placing": 383
+  },
+  {
+    "name": "Ian Lee [US]",
+    "placing": 384
+  },
+  {
+    "name": "Abel Ewere [US]",
+    "placing": 385
+  },
+  {
+    "name": "George Jeno [US]",
+    "placing": 386
+  },
+  {
+    "name": "Alexander Ballin [US]",
+    "placing": 387
+  },
+  {
+    "name": "Joshua Groenewold [US]",
+    "placing": 388
+  },
+  {
+    "name": "Anthony Finley [US]",
+    "placing": 389
+  },
+  {
+    "name": "Richard Morris [US]",
+    "placing": 390
+  },
+  {
+    "name": "Steven Boschert [US]",
+    "placing": 391
+  },
+  {
+    "name": "Alexander Zhang [US]",
+    "placing": 392
+  },
+  {
+    "name": "Alex Morales [US]",
+    "placing": 393
+  },
+  {
+    "name": "Darius Lamonte [US]",
+    "placing": 394
+  },
+  {
+    "name": "Nathan Moon [US]",
+    "placing": 395
+  },
+  {
+    "name": "Brandon Kinslow [US]",
+    "placing": 396
+  },
+  {
+    "name": "Tristen Nelms [US]",
+    "placing": 397
+  },
+  {
+    "name": "Gabriel Mott [US]",
+    "placing": 398
+  },
+  {
+    "name": "Brian Cullen [US]",
+    "placing": 399
+  },
+  {
+    "name": "Zachary Lyons [US]",
+    "placing": 400
+  },
+  {
+    "name": "Aaron Grubbs [US]",
+    "placing": 401
+  },
+  {
+    "name": "Dylan Morris [US]",
+    "placing": 402
+  },
+  {
+    "name": "Logan Groh [US]",
+    "placing": 403
+  },
+  {
+    "name": "Diego Ureña [US]",
+    "placing": 404
+  },
+  {
+    "name": "Charles Jones [US]",
+    "placing": 405
+  },
+  {
+    "name": "Daniel Martin [US]",
+    "placing": 406
+  },
+  {
+    "name": "Brian Yu [US]",
+    "placing": 407
+  },
+  {
+    "name": "Liam Lashley [US]",
+    "placing": 408
+  },
+  {
+    "name": "Bobby Lebeda [US]",
+    "placing": 409
+  },
+  {
+    "name": "Angel Requena [US]",
+    "placing": 410
+  },
+  {
+    "name": "Michael McCutcheon [US]",
+    "placing": 411
+  },
+  {
+    "name": "Ates Serifsoy [US]",
+    "placing": 412
+  },
+  {
+    "name": "Charles Moses [US]",
+    "placing": 413
+  },
+  {
+    "name": "Ricardo Lazo [CA]",
+    "placing": 414
+  },
+  {
+    "name": "Meg Walls [US]",
+    "placing": 415
+  },
+  {
+    "name": "Cory Flowers [US]",
+    "placing": 416
+  },
+  {
+    "name": "Tim Carroll [US]",
+    "placing": 417
+  },
+  {
+    "name": "Nate Mazza [US]",
+    "placing": 418
+  },
+  {
+    "name": "Breannah McCrary [US]",
+    "placing": 419
+  },
+  {
+    "name": "Brendan DeWerth [US]",
+    "placing": 420
+  },
+  {
+    "name": "James Fos [US]",
+    "placing": 421
+  },
+  {
+    "name": "Brad Heimbrock [US]",
+    "placing": 422
+  },
+  {
+    "name": "Casey Golden [US]",
+    "placing": 423
+  },
+  {
+    "name": "Rachel Osburn [US]",
+    "placing": 424
+  },
+  {
+    "name": "Randall Segnar [US]",
+    "placing": 425
+  },
+  {
+    "name": "Nathan Krebs [US]",
+    "placing": 426
+  },
+  {
+    "name": "Jorge Juarez [US]",
+    "placing": 427
+  },
+  {
+    "name": "Matthew Moran [US]",
+    "placing": 428
+  },
+  {
+    "name": "Billy Helm [US]",
+    "placing": 429
+  },
+  {
+    "name": "Cory Hopper [US]",
+    "placing": 430
+  },
+  {
+    "name": "Nicholas Rubingh [US]",
+    "placing": 431
+  },
+  {
+    "name": "Zhengle Tu [CN]",
+    "placing": 432
+  },
+  {
+    "name": "Tobey Gelinskey [US]",
+    "placing": 433
+  },
+  {
+    "name": "Austin Frank [US]",
+    "placing": 434
+  },
+  {
+    "name": "William Zickler [US]",
+    "placing": 435
+  },
+  {
+    "name": "Chase Badish [US]",
+    "placing": 436
+  },
+  {
+    "name": "Jacob Bollinger [US]",
+    "placing": 437
+  },
+  {
+    "name": "Thomas Pfeifer [US]",
+    "placing": 438
+  },
+  {
+    "name": "Edhen Soto [US]",
+    "placing": 439
+  },
+  {
+    "name": "Jourdan Savary [US]",
+    "placing": 440
+  },
+  {
+    "name": "Aria Black [US]",
+    "placing": 441
+  },
+  {
+    "name": "Jackson Eames [US]",
+    "placing": 442
+  },
+  {
+    "name": "Jonathon Strosahl [US]",
+    "placing": 443
+  },
+  {
+    "name": "Mihael Vrtar [US]",
+    "placing": 444
+  },
+  {
+    "name": "Jacob Stewart [US]",
+    "placing": 445
+  },
+  {
+    "name": "Elijah Larrabee [US]",
+    "placing": 446
+  },
+  {
+    "name": "Wyatt Elsner [US]",
+    "placing": 447
+  },
+  {
+    "name": "Gavin Sohnrey [US]",
+    "placing": 448
+  },
+  {
+    "name": "Nicholas Waterfield [US]",
+    "placing": 449
+  },
+  {
+    "name": "Jonny Davidson [US]",
+    "placing": 450
+  },
+  {
+    "name": "Stephan Simons [US]",
+    "placing": 451
+  },
+  {
+    "name": "Bryan Wong [US]",
+    "placing": 452
+  },
+  {
+    "name": "Miguel Zurita [US]",
+    "placing": 453
+  },
+  {
+    "name": "Knox Ashford [US]",
+    "placing": 454
+  },
+  {
+    "name": "Nathanial Martinez [US]",
+    "placing": 455
+  },
+  {
+    "name": "Keith Miller [US]",
+    "placing": 456
+  },
+  {
+    "name": "william wright [US]",
+    "placing": 457
+  },
+  {
+    "name": "John Galvin [US]",
+    "placing": 458
+  },
+  {
+    "name": "Matthew Myers [US]",
+    "placing": 459
+  },
+  {
+    "name": "Mark Nosiglia [US]",
+    "placing": 460
+  },
+  {
+    "name": "Jacob Pry [US]",
+    "placing": 461
+  },
+  {
+    "name": "Vivian Sipes [US]",
+    "placing": 462
+  },
+  {
+    "name": "Michael Frerichs [US]",
+    "placing": 463
+  },
+  {
+    "name": "JD Thompson [US]",
+    "placing": 464
+  },
+  {
+    "name": "Will Griffis [US]",
+    "placing": 465
+  },
+  {
+    "name": "Cody Haase [CA]",
+    "placing": 466
+  },
+  {
+    "name": "Patrick Cheng [CA]",
+    "placing": 467
+  },
+  {
+    "name": "Jared Fuller [US]",
+    "placing": 468
+  },
+  {
+    "name": "Evan Wehmeyer [US]",
+    "placing": 469
+  },
+  {
+    "name": "Kamaal Harris [US]",
+    "placing": 470
+  },
+  {
+    "name": "Ian Barnett [US]",
+    "placing": 471
+  },
+  {
+    "name": "Phil Smyth [US]",
+    "placing": 472
+  },
+  {
+    "name": "Pavan Nimmagadda [US]",
+    "placing": 473
+  },
+  {
+    "name": "Justin Biery [US]",
+    "placing": 474
+  },
+  {
+    "name": "Adam Petre [US]",
+    "placing": 475
+  },
+  {
+    "name": "Brandon Jones [US]",
+    "placing": 476
+  },
+  {
+    "name": "Riley Loster [US]",
+    "placing": 477
+  },
+  {
+    "name": "Thomas Fisher [US]",
+    "placing": 478
+  },
+  {
+    "name": "Josh McCoinn [US]",
+    "placing": 479
+  },
+  {
+    "name": "Rodrigo Montoya [US]",
+    "placing": 480
+  },
+  {
+    "name": "Cameron Shearer [US]",
+    "placing": 481
+  },
+  {
+    "name": "Quentin Raines [US]",
+    "placing": 482
+  },
+  {
+    "name": "Darren Brown [US]",
+    "placing": 483
+  },
+  {
+    "name": "Mario Serrano [US]",
+    "placing": 484
+  },
+  {
+    "name": "Nicholas Wershing [US]",
+    "placing": 485
+  },
+  {
+    "name": "Colby Tuttle [US]",
+    "placing": 486
+  },
+  {
+    "name": "Dan Kelly [US]",
+    "placing": 487
+  },
+  {
+    "name": "Herolind Gashi [US]",
+    "placing": 488
+  },
+  {
+    "name": "James O'Connell [US]",
+    "placing": 489
+  },
+  {
+    "name": "Kéyvon Washington [US]",
+    "placing": 490
+  },
+  {
+    "name": "Noah Gelman [US]",
+    "placing": 491
+  },
+  {
+    "name": "Joseph Andrews [US]",
+    "placing": 492
+  },
+  {
+    "name": "Jonathan Li [US]",
+    "placing": 493
+  },
+  {
+    "name": "Jacob Doria-Rose [US]",
+    "placing": 494
+  },
+  {
+    "name": "Damon Castleman [US]",
+    "placing": 495
+  },
+  {
+    "name": "Jacob Newton [US]",
+    "placing": 496
+  },
+  {
+    "name": "Ben Wolf [US]",
+    "placing": 497
+  },
+  {
+    "name": "Alexander Jasper [US]",
+    "placing": 498
+  },
+  {
+    "name": "Bryan Wong [SG]",
+    "placing": 499
+  },
+  {
+    "name": "Elijah Smith [US]",
+    "placing": 500
+  },
+  {
+    "name": "Nicholas Haasch [US]",
+    "placing": 501
+  },
+  {
+    "name": "Cahary Briscoe [JM]",
+    "placing": 502
+  },
+  {
+    "name": "Griffin Scruggs [US]",
+    "placing": 503
+  },
+  {
+    "name": "Tyler Zellers [US]",
+    "placing": 504
+  },
+  {
+    "name": "Justin Jacobson [US]",
+    "placing": 505
+  },
+  {
+    "name": "Keegan Thompson [US]",
+    "placing": 506
+  },
+  {
+    "name": "Andrew Heller [US]",
+    "placing": 507
+  },
+  {
+    "name": "Luke Messerly [US]",
+    "placing": 508
+  },
+  {
+    "name": "Samuel Temple [US]",
+    "placing": 509
+  },
+  {
+    "name": "Jeffrey Hartsook [US]",
+    "placing": 510
+  },
+  {
+    "name": "David Becker [US]",
+    "placing": 511
+  },
+  {
+    "name": "John Clark [US]",
+    "placing": 512
+  },
+  {
+    "name": "Austin Cook [US]",
+    "placing": 513
+  },
+  {
+    "name": "Joseph Nunziata [US]",
+    "placing": 514
+  },
+  {
+    "name": "Brett Wigley [US]",
+    "placing": 515
+  },
+  {
+    "name": "Jake Milosavljevic [US]",
+    "placing": 516
+  },
+  {
+    "name": "William Harvey [US]",
+    "placing": 517
+  },
+  {
+    "name": "Matthew Lanier [US]",
+    "placing": 518
+  },
+  {
+    "name": "Alixander Rodriguez [US]",
+    "placing": 519
+  },
+  {
+    "name": "Blake Williams [US]",
+    "placing": 520
+  },
+  {
+    "name": "Brett Callarman [US]",
+    "placing": 521
+  },
+  {
+    "name": "Michael Jarosz [US]",
+    "placing": 522
+  },
+  {
+    "name": "William Stonecipher [US]",
+    "placing": 523
+  },
+  {
+    "name": "Georgia Diakov [US]",
+    "placing": 524
+  },
+  {
+    "name": "Matthew Hearl [US]",
+    "placing": 525
+  },
+  {
+    "name": "Gaylen Zellner [US]",
+    "placing": 526
+  },
+  {
+    "name": "Maya Bhemisetty [US]",
+    "placing": 527
+  },
+  {
+    "name": "Violet Grace [US]",
+    "placing": 528
+  },
+  {
+    "name": "Zachary Lauth [US]",
+    "placing": 529
+  },
+  {
+    "name": "Alec Rosario [US]",
+    "placing": 530
+  },
+  {
+    "name": "Nick Morris [US]",
+    "placing": 531
+  },
+  {
+    "name": "Tyler Miller [US]",
+    "placing": 532
+  },
+  {
+    "name": "Zack Schubert [US]",
+    "placing": 533
+  },
+  {
+    "name": "Preston Lawrence [US]",
+    "placing": 534
+  },
+  {
+    "name": "Geoffrey Dawson [US]",
+    "placing": 535
+  },
+  {
+    "name": "Charlie Hall [US]",
+    "placing": 536
+  },
+  {
+    "name": "Liz Gutierrez [US]",
+    "placing": 537
+  },
+  {
+    "name": "Ryan Cunningham [US]",
+    "placing": 538
+  },
+  {
+    "name": "Felipe Peres [US]",
+    "placing": 539
+  },
+  {
+    "name": "Ari Leger [US]",
+    "placing": 540
+  },
+  {
+    "name": "Tyler Zimmerman [US]",
+    "placing": 541
+  },
+  {
+    "name": "Ashley Allton [US]",
+    "placing": 542
+  },
+  {
+    "name": "Jason Labrecque [US]",
+    "placing": 543
+  },
+  {
+    "name": "Fletcher Rider [US]",
+    "placing": 544
+  },
+  {
+    "name": "Justin Huemmer [US]",
+    "placing": 545
+  },
+  {
+    "name": "Derek Barksdale [US]",
+    "placing": 546
+  },
+  {
+    "name": "Dylan Strong [US]",
+    "placing": 547
+  },
+  {
+    "name": "Jack Armbruster [US]",
+    "placing": 548
+  },
+  {
+    "name": "Brodie Nishwitz [US]",
+    "placing": 549
+  },
+  {
+    "name": "Cody Gonsalves [US]",
+    "placing": 550
+  },
+  {
+    "name": "Emad Renfroe [US]",
+    "placing": 551
+  },
+  {
+    "name": "Lucas Lundvall [US]",
+    "placing": 552
+  },
+  {
+    "name": "Uriel Reboseno [US]",
+    "placing": 553
+  },
+  {
+    "name": "Nathan Jones [US]",
+    "placing": 554
+  },
+  {
+    "name": "ivan girard [US]",
+    "placing": 555
+  },
+  {
+    "name": "Alex Robertson [US]",
+    "placing": 556
+  },
+  {
+    "name": "Renato Montoya [US]",
+    "placing": 557
+  },
+  {
+    "name": "Devontae Stine [US]",
+    "placing": 558
+  },
+  {
+    "name": "Richard Konieczny [US]",
+    "placing": 559
+  },
+  {
+    "name": "Yash Kale [US]",
+    "placing": 560
+  },
+  {
+    "name": "Kyden Flynn [US]",
+    "placing": 561
+  },
+  {
+    "name": "Amari King [US]",
+    "placing": 562
+  },
+  {
+    "name": "Zack Newport [US]",
+    "placing": 563
+  },
+  {
+    "name": "Eric Rutherford [US]",
+    "placing": 564
+  },
+  {
+    "name": "Michael Buzil [US]",
+    "placing": 565
+  },
+  {
+    "name": "Xavier Tindall [US]",
+    "placing": 566
+  },
+  {
+    "name": "Shane Tokishi [US]",
+    "placing": 567
+  },
+  {
+    "name": "Noah Earlenbaugh [US]",
+    "placing": 568
+  },
+  {
+    "name": "Jaiden Hart [US]",
+    "placing": 569
+  },
+  {
+    "name": "Ryan Nesmith [US]",
+    "placing": 570
+  },
+  {
+    "name": "Brycen Parker [US]",
+    "placing": 571
+  },
+  {
+    "name": "Zack Gross [US]",
+    "placing": 572
+  },
+  {
+    "name": "Nick D’Angelo [US]",
+    "placing": 573
+  },
+  {
+    "name": "Parker Sidenstricker [US]",
+    "placing": 574
+  },
+  {
+    "name": "Robby Whitaker [US]",
+    "placing": 575
+  },
+  {
+    "name": "Kevin Kopczynski [US]",
+    "placing": 576
+  },
+  {
+    "name": "Lorenzo Moreno [US]",
+    "placing": 577
+  },
+  {
+    "name": "Matt Bruno [US]",
+    "placing": 578
+  },
+  {
+    "name": "Daniel Woodruff [US]",
+    "placing": 579
+  },
+  {
+    "name": "Ty Payne [US]",
+    "placing": 580
+  },
+  {
+    "name": "Ryan Tingen [US]",
+    "placing": 581
+  },
+  {
+    "name": "Richard Macey [US]",
+    "placing": 582
+  },
+  {
+    "name": "Ethan Heckman [US]",
+    "placing": 583
+  },
+  {
+    "name": "Jon VanRyckeghem [US]",
+    "placing": 584
+  },
+  {
+    "name": "Chris Wiseman [US]",
+    "placing": 585
+  },
+  {
+    "name": "Alexander Williams [US]",
+    "placing": 586
+  },
+  {
+    "name": "Ryan Oswalt [US]",
+    "placing": 587
+  },
+  {
+    "name": "Nicholas Tran [US]",
+    "placing": 588
+  },
+  {
+    "name": "Blake Stout [US]",
+    "placing": 589
+  },
+  {
+    "name": "Lincoln Morrow [US]",
+    "placing": 590
+  },
+  {
+    "name": "Justin Morris [US]",
+    "placing": 591
+  },
+  {
+    "name": "joseph ochoa [US]",
+    "placing": 592
+  },
+  {
+    "name": "Sam Danneker [US]",
+    "placing": 593
+  },
+  {
+    "name": "Basil Hawley [US]",
+    "placing": 594
+  },
+  {
+    "name": "Mason Basham [US]",
+    "placing": 595
+  },
+  {
+    "name": "Tyler Maloney Maloney [US]",
+    "placing": 596
+  },
+  {
+    "name": "Anthony Sarmiento [US]",
+    "placing": 597
+  },
+  {
+    "name": "Alexander Curtland [US]",
+    "placing": 598
+  },
+  {
+    "name": "Ross Kincaid [US]",
+    "placing": 599
+  },
+  {
+    "name": "Jordan Sanders [US]",
+    "placing": 600
+  },
+  {
+    "name": "Rod Guidry [US]",
+    "placing": 601
+  },
+  {
+    "name": "Ethan Wang [US]",
+    "placing": 602
+  },
+  {
+    "name": "Cody Abner [US]",
+    "placing": 603
+  },
+  {
+    "name": "Jack Mountain [US]",
+    "placing": 604
+  },
+  {
+    "name": "Cory Weese [US]",
+    "placing": 605
+  },
+  {
+    "name": "Dominic Scott [US]",
+    "placing": 606
+  },
+  {
+    "name": "Harrison Redpath [US]",
+    "placing": 607
+  },
+  {
+    "name": "Blake Whitehouse [US]",
+    "placing": 608
+  },
+  {
+    "name": "George McMaster [US]",
+    "placing": 609
+  },
+  {
+    "name": "John Hoffman [US]",
+    "placing": 610
+  },
+  {
+    "name": "Ian Viveiros [US]",
+    "placing": 611
+  },
+  {
+    "name": "Carden Shelly [US]",
+    "placing": 612
+  },
+  {
+    "name": "Jarvis Johnson [US]",
+    "placing": 613
+  },
+  {
+    "name": "Cohen Crutchfield [US]",
+    "placing": 614
+  },
+  {
+    "name": "Thomas McDevitt [US]",
+    "placing": 615
+  },
+  {
+    "name": "Ayden Barber [US]",
+    "placing": 616
+  },
+  {
+    "name": "Matt Keanu [US]",
+    "placing": 617
+  },
+  {
+    "name": "Garrett Drake [US]",
+    "placing": 618
+  },
+  {
+    "name": "Devan Scherf [US]",
+    "placing": 619
+  },
+  {
+    "name": "Blake Katz [US]",
+    "placing": 620
+  },
+  {
+    "name": "Drew Miller [US]",
+    "placing": 621
+  },
+  {
+    "name": "Dylan B [US]",
+    "placing": 622
+  },
+  {
+    "name": "Memphis Davila [US]",
+    "placing": 623
+  },
+  {
+    "name": "Michael Bishop [US]",
+    "placing": 624
+  },
+  {
+    "name": "Noah Latham [US]",
+    "placing": 625
+  },
+  {
+    "name": "Eli Wilson [US]",
+    "placing": 626
+  },
+  {
+    "name": "Caleb Spillar [US]",
+    "placing": 627
+  },
+  {
+    "name": "Ramon Ambert [US]",
+    "placing": 628
+  },
+  {
+    "name": "Caleb Soto [US]",
+    "placing": 629
+  },
+  {
+    "name": "Shawn Tang [SG]",
+    "placing": 630
+  },
+  {
+    "name": "Brandon Cochran [US]",
+    "placing": 631
+  },
+  {
+    "name": "Jackson Bollenbacher [US]",
+    "placing": 632
+  },
+  {
+    "name": "Robert Taylor [US]",
+    "placing": 633
+  },
+  {
+    "name": "Colton Douthitt [US]",
+    "placing": 634
+  },
+  {
+    "name": "Anthony Bowden [US]",
+    "placing": 635
+  },
+  {
+    "name": "Nathan Page [US]",
+    "placing": 636
+  },
+  {
+    "name": "Todd Hayes [US]",
+    "placing": 637
+  },
+  {
+    "name": "Marvyn Değer [US]",
+    "placing": 638
+  },
+  {
+    "name": "Robert Davies [US]",
+    "placing": 639
+  },
+  {
+    "name": "Ethan Richardson [US]",
+    "placing": 640
+  },
+  {
+    "name": "Nick Duncan [US]",
+    "placing": 641
+  },
+  {
+    "name": "Hunter Wellens [US]",
+    "placing": 642
+  },
+  {
+    "name": "Christopher Hedden [US]",
+    "placing": 643
+  },
+  {
+    "name": "Caleb Larson [US]",
+    "placing": 644
+  },
+  {
+    "name": "Carlos Cruz-Rios [US]",
+    "placing": 645
+  },
+  {
+    "name": "Aiden Leatherbury [US]",
+    "placing": 646
+  },
+  {
+    "name": "Benjamin Marsh [US]",
+    "placing": 647
+  },
+  {
+    "name": "Mike Nowak [US]",
+    "placing": 648
+  },
+  {
+    "name": "Niko Flores [US]",
+    "placing": 649
+  },
+  {
+    "name": "Travis Brosnan [US]",
+    "placing": 650
+  },
+  {
+    "name": "Nikolas Vasilevskas [US]",
+    "placing": 651
+  },
+  {
+    "name": "John-Patrick Strachan [US]",
+    "placing": 652
+  },
+  {
+    "name": "Enrique Bryan [US]",
+    "placing": 653
+  },
+  {
+    "name": "Jordan Momani [US]",
+    "placing": 654
+  },
+  {
+    "name": "Dylan Hensley [US]",
+    "placing": 655
+  },
+  {
+    "name": "Brett Clark [US]",
+    "placing": 656
+  },
+  {
+    "name": "Isai Barron [US]",
+    "placing": 657
+  },
+  {
+    "name": "Jack Stonecipher [US]",
+    "placing": 658
+  },
+  {
+    "name": "Ryan Tekavec [US]",
+    "placing": 659
+  },
+  {
+    "name": "Allen Liu [US]",
+    "placing": 660
+  },
+  {
+    "name": "Charles Stephenson [US]",
+    "placing": 661
+  },
+  {
+    "name": "Mark Alexander [US]",
+    "placing": 662
+  },
+  {
+    "name": "Joshua Terry [US]",
+    "placing": 663
+  },
+  {
+    "name": "Isaiah Alvarez [US]",
+    "placing": 664
+  },
+  {
+    "name": "Judah Solini [US]",
+    "placing": 665
+  },
+  {
+    "name": "Andrew Walter [US]",
+    "placing": 666
+  },
+  {
+    "name": "Skyler Aikin [US]",
+    "placing": 667
+  },
+  {
+    "name": "Adam Elder [US]",
+    "placing": 668
+  },
+  {
+    "name": "Evan Hodge [US]",
+    "placing": 669
+  },
+  {
+    "name": "Carter Mitchell [US]",
+    "placing": 670
+  },
+  {
+    "name": "Ethan Fraley [US]",
+    "placing": 671
+  },
+  {
+    "name": "Hannah Guetterman [US]",
+    "placing": 672
+  },
+  {
+    "name": "Kolton Hill [US]",
+    "placing": 673
+  },
+  {
+    "name": "Dane Beyer [US]",
+    "placing": 674
+  },
+  {
+    "name": "Garrett Olges [US]",
+    "placing": 675
+  },
+  {
+    "name": "Aiden Ritchey [US]",
+    "placing": 676
+  },
+  {
+    "name": "Rowan Lovelace [US]",
+    "placing": 677
+  },
+  {
+    "name": "Dylan Zelenka [US]",
+    "placing": 678
+  },
+  {
+    "name": "Cyrus Cox [US]",
+    "placing": 679
+  },
+  {
+    "name": "Keegan Christensen [US]",
+    "placing": 680
+  },
+  {
+    "name": "Viken Ashekian [CA]",
+    "placing": 681
+  },
+  {
+    "name": "Michael Bayouk [US]",
+    "placing": 682
+  },
+  {
+    "name": "Ryan Terry [US]",
+    "placing": 683
+  },
+  {
+    "name": "Patrick Beltrani [US]",
+    "placing": 684
+  },
+  {
+    "name": "Garrett Garver [US]",
+    "placing": 685
+  },
+  {
+    "name": "Spencer Cochran [US]",
+    "placing": 686
+  },
+  {
+    "name": "Ronan Talbert [US]",
+    "placing": 687
+  },
+  {
+    "name": "Chad Gass [US]",
+    "placing": 688
+  },
+  {
+    "name": "Douglas Dixon [US]",
+    "placing": 689
+  },
+  {
+    "name": "Tyler Norton [US]",
+    "placing": 690
+  },
+  {
+    "name": "Carlos Quintana [US]",
+    "placing": 691
+  },
+  {
+    "name": "Natalie Rodriguez [US]",
+    "placing": 692
+  },
+  {
+    "name": "Hosea Gamble [US]",
+    "placing": 693
+  },
+  {
+    "name": "Cameron Cook [US]",
+    "placing": 694
+  },
+  {
+    "name": "Jennifer Crawford [US]",
+    "placing": 695
+  },
+  {
+    "name": "Emerson Morin [US]",
+    "placing": 696
+  },
+  {
+    "name": "Kaylee Manning [US]",
+    "placing": 697
+  },
+  {
+    "name": "Jared Ramos [US]",
+    "placing": 698
+  },
+  {
+    "name": "Jack Tate [US]",
+    "placing": 699
+  },
+  {
+    "name": "Andrew Engelman [US]",
+    "placing": 700
+  },
+  {
+    "name": "Ben Kipp [US]",
+    "placing": 701
+  },
+  {
+    "name": "Samuel Tate [US]",
+    "placing": 702
+  },
+  {
+    "name": "Isaiah Rocco [US]",
+    "placing": 703
+  },
+  {
+    "name": "Steven Herbst [US]",
+    "placing": 704
+  },
+  {
+    "name": "Jayce Varone [US]",
+    "placing": 705
+  },
+  {
+    "name": "Samuel Hardin [US]",
+    "placing": 706
+  },
+  {
+    "name": "William Lewis [US]",
+    "placing": 707
+  },
+  {
+    "name": "Seeley Mentzer [US]",
+    "placing": 708
+  },
+  {
+    "name": "Layne Gaynor [US]",
+    "placing": 709
+  },
+  {
+    "name": "Rhygis Barbour [US]",
+    "placing": 710
+  },
+  {
+    "name": "Alexander Atkus [US]",
+    "placing": 711
+  },
+  {
+    "name": "Jacob Akel [US]",
+    "placing": 712
+  },
+  {
+    "name": "Wesley Baker [US]",
+    "placing": 713
+  },
+  {
+    "name": "Meghraj Patel [US]",
+    "placing": 714
+  },
+  {
+    "name": "Christian ONeil [US]",
+    "placing": 715
+  },
+  {
+    "name": "Ronan Kitchen [US]",
+    "placing": 716
+  },
+  {
+    "name": "Brendan Komp [US]",
+    "placing": 717
+  },
+  {
+    "name": "Gabriel Beltran [US]",
+    "placing": 718
+  },
+  {
+    "name": "Samuel Vogel [US]",
+    "placing": 719
+  },
+  {
+    "name": "Mark Morales [US]",
+    "placing": 720
+  },
+  {
+    "name": "Blake Sitko [US]",
+    "placing": 721
+  },
+  {
+    "name": "Trevor Lee [US]",
+    "placing": 722
+  },
+  {
+    "name": "Mathios Gillett [US]",
+    "placing": 723
+  },
+  {
+    "name": "Joel Henson [CA]",
+    "placing": 724
+  },
+  {
+    "name": "Jared VanderWeele [US]",
+    "placing": 725
+  },
+  {
+    "name": "miguel Orduna [US]",
+    "placing": 726
+  },
+  {
+    "name": "Isaac St. André [US]",
+    "placing": 727
+  },
+  {
+    "name": "Connor Stender [US]",
+    "placing": 728
+  },
+  {
+    "name": "Koi Sutton [US]",
+    "placing": 729
+  },
+  {
+    "name": "Ryan Sebade [US]",
+    "placing": 730
+  },
+  {
+    "name": "Gavin Caponera [US]",
+    "placing": 731
+  },
+  {
+    "name": "David Gardner [US]",
+    "placing": 732
+  },
+  {
+    "name": "Joshua Davis [US]",
+    "placing": 733
+  },
+  {
+    "name": "Rehan Ahmed [US]",
+    "placing": 734
+  },
+  {
+    "name": "Mario Capo [US]",
+    "placing": 735
+  },
+  {
+    "name": "Randal Dumont [US]",
+    "placing": 736
+  },
+  {
+    "name": "John Townsend [US]",
+    "placing": 737
+  },
+  {
+    "name": "Tyler Stopher [US]",
+    "placing": 738
+  },
+  {
+    "name": "Parth Patel [US]",
+    "placing": 739
+  },
+  {
+    "name": "Sebastian Echeverria [US]",
+    "placing": 740
+  },
+  {
+    "name": "Sean Earley [US]",
+    "placing": 741
+  },
+  {
+    "name": "Ali Jaeger [US]",
+    "placing": 742
+  },
+  {
+    "name": "Austin Swecker [US]",
+    "placing": 743
+  },
+  {
+    "name": "Harper Settles [US]",
+    "placing": 744
+  },
+  {
+    "name": "Davin Fuller [US]",
+    "placing": 745
+  },
+  {
+    "name": "Carlos Aguirre [US]",
+    "placing": 746
+  },
+  {
+    "name": "Max Montgomery [US]",
+    "placing": 747
+  },
+  {
+    "name": "Tyler Flener [US]",
+    "placing": 748
+  },
+  {
+    "name": "Keegan OConnor [US]",
+    "placing": 749
+  },
+  {
+    "name": "Kazuki Kanehira [US]",
+    "placing": 750
+  },
+  {
+    "name": "Miguel Elie [US]",
+    "placing": 751
+  },
+  {
+    "name": "Evan Surran [US]",
+    "placing": 752
+  },
+  {
+    "name": "Timothy Terry [US]",
+    "placing": 753
+  },
+  {
+    "name": "Harley Casto [US]",
+    "placing": 754
+  },
+  {
+    "name": "Brian DeRosa [US]",
+    "placing": 755
+  },
+  {
+    "name": "LeRoy Gordon [US]",
+    "placing": 756
+  },
+  {
+    "name": "Macauley Simmons [US]",
+    "placing": 757
+  },
+  {
+    "name": "Liam McDonald [US]",
+    "placing": 758
+  },
+  {
+    "name": "Tyler Burdine [US]",
+    "placing": 759
+  },
+  {
+    "name": "Diana Clark [US]",
+    "placing": 760
+  },
+  {
+    "name": "John Mills [US]",
+    "placing": 761
+  },
+  {
+    "name": "Emily Parson [US]",
+    "placing": 762
+  },
+  {
+    "name": "Aiden Jones [US]",
+    "placing": 763
+  },
+  {
+    "name": "Mitchell Fleming [US]",
+    "placing": 764
+  },
+  {
+    "name": "Justin Won [US]",
+    "placing": 765
+  },
+  {
+    "name": "Thomas Davison [US]",
+    "placing": 766
+  },
+  {
+    "name": "Steven Burton [US]",
+    "placing": 767
+  },
+  {
+    "name": "Samuel May [US]",
+    "placing": 768
+  },
+  {
+    "name": "Luke Nguyen [US]",
+    "placing": 769
+  },
+  {
+    "name": "Robert Hardesty [US]",
+    "placing": 770
+  },
+  {
+    "name": "Izaya Sturgeon [US]",
+    "placing": 771
+  },
+  {
+    "name": "Caleb Belle [US]",
+    "placing": 772
+  },
+  {
+    "name": "Austin Smothers [US]",
+    "placing": 773
+  },
+  {
+    "name": "Chase Rhodes [US]",
+    "placing": 774
+  },
+  {
+    "name": "Ectis Velazquez [US]",
+    "placing": 775
+  },
+  {
+    "name": "Matthew Suarez [US]",
+    "placing": 776
+  },
+  {
+    "name": "Noah Gardner [US]",
+    "placing": 777
+  },
+  {
+    "name": "Abby Mansmann [US]",
+    "placing": 778
+  },
+  {
+    "name": "Jared Pastor-Richard [US]",
+    "placing": 779
+  },
+  {
+    "name": "Austin Cintron [US]",
+    "placing": 780
+  },
+  {
+    "name": "Joshua Bailey [US]",
+    "placing": 781
+  },
+  {
+    "name": "Daniel Raygoza [US]",
+    "placing": 782
+  },
+  {
+    "name": "Evan Grizzard [US]",
+    "placing": 783
+  },
+  {
+    "name": "Miroslawa Morioka [US]",
+    "placing": 784
+  },
+  {
+    "name": "Eddie Gunns [US]",
+    "placing": 785
+  },
+  {
+    "name": "Travis Brunell [US]",
+    "placing": 786
+  },
+  {
+    "name": "Joe Nelson [US]",
+    "placing": 787
+  },
+  {
+    "name": "Kendall Williams [US]",
+    "placing": 788
+  },
+  {
+    "name": "Hudson Mortvedt [US]",
+    "placing": 789
+  },
+  {
+    "name": "Josh Hamilton [US]",
+    "placing": 790
+  },
+  {
+    "name": "jacob lenhof [US]",
+    "placing": 791
+  },
+  {
+    "name": "Kai Cummings [US]",
+    "placing": 792
+  },
+  {
+    "name": "Michael Zaslavsky [US]",
+    "placing": 793
+  },
+  {
+    "name": "Samuel Williams [US]",
+    "placing": 794
+  },
+  {
+    "name": "Nathan Green [US]",
+    "placing": 795
+  },
+  {
+    "name": "Naiya Baker [US]",
+    "placing": 796
+  },
+  {
+    "name": "Aidan Solis [US]",
+    "placing": 797
+  },
+  {
+    "name": "Coleman Hedges [US]",
+    "placing": 798
+  },
+  {
+    "name": "Alex Gustad [US]",
+    "placing": 799
+  },
+  {
+    "name": "Elijah Blackthorn [US]",
+    "placing": 800
+  },
+  {
+    "name": "Allan Mejia [US]",
+    "placing": 801
+  },
+  {
+    "name": "Miguel Manzo [US]",
+    "placing": 802
+  },
+  {
+    "name": "John Dykes [US]",
+    "placing": 803
+  },
+  {
+    "name": "Constanza Castro [US]",
+    "placing": 804
+  },
+  {
+    "name": "Trueman Satterwhite [US]",
+    "placing": 805
+  },
+  {
+    "name": "Aaron Zawislak [US]",
+    "placing": 806
+  },
+  {
+    "name": "Sarina Compagnino [US]",
+    "placing": 807
+  },
+  {
+    "name": "Justin Miranda-Radbord [CA]",
+    "placing": 808
+  },
+  {
+    "name": "Kameren Patton [US]",
+    "placing": 809
+  },
+  {
+    "name": "Nairobi Gammage [US]",
+    "placing": 810
+  },
+  {
+    "name": "Aaron Clemons [US]",
+    "placing": 811
+  },
+  {
+    "name": "Taylor Mathis [US]",
+    "placing": 812
+  },
+  {
+    "name": "Ryan Keanu [US]",
+    "placing": 813
+  },
+  {
+    "name": "Tyrese Glover [US]",
+    "placing": 814
+  },
+  {
+    "name": "Zek Hogo [US]",
+    "placing": 815
+  },
+  {
+    "name": "Gustavo Padilla [US]",
+    "placing": 816
+  },
+  {
+    "name": "Sarah Snider [US]",
+    "placing": 817
+  },
+  {
+    "name": "Jackson Bailey [US]",
+    "placing": 818
+  },
+  {
+    "name": "Aidan Hubers [US]",
+    "placing": 819
+  },
+  {
+    "name": "Isaac Gross [US]",
+    "placing": 820
+  },
+  {
+    "name": "Kylan Smelker [US]",
+    "placing": 821
+  },
+  {
+    "name": "Mason Mateus [US]",
+    "placing": 822
+  },
+  {
+    "name": "Logan VanValkenburg [US]",
+    "placing": 823
+  },
+  {
+    "name": "Emilee Edwards [US]",
+    "placing": 824
+  },
+  {
+    "name": "Lucas Hensley [US]",
+    "placing": 825
+  },
+  {
+    "name": "Andres Jacobo [US]",
+    "placing": 826
+  },
+  {
+    "name": "Braden Clemens [CA]",
+    "placing": 827
+  },
+  {
+    "name": "Jacob Dean [US]",
+    "placing": 828
+  },
+  {
+    "name": "J. Harrison Williams [US]",
+    "placing": 829
+  },
+  {
+    "name": "Adrian Wilmer [US]",
+    "placing": 830
+  },
+  {
+    "name": "Evan Simmons [US]",
+    "placing": 831
+  },
+  {
+    "name": "Luciano Rios [US]",
+    "placing": 832
+  },
+  {
+    "name": "Zachary Birmele [US]",
+    "placing": 833
+  },
+  {
+    "name": "Blake Mullins [US]",
+    "placing": 834
+  },
+  {
+    "name": "Lauren Stickland [US]",
+    "placing": 835
+  },
+  {
+    "name": "Zachary Ford [US]",
+    "placing": 836
+  },
+  {
+    "name": "Joshua Long [US]",
+    "placing": 837
+  },
+  {
+    "name": "Kevin Guillen [US]",
+    "placing": 838
+  },
+  {
+    "name": "Jacob Mejia [US]",
+    "placing": 839
+  },
+  {
+    "name": "Brice Boyer [US]",
+    "placing": 840
+  },
+  {
+    "name": "Andrew Woodruff [US]",
+    "placing": 841
+  },
+  {
+    "name": "Marin Connelly [US]",
+    "placing": 842
+  },
+  {
+    "name": "Patrick Regan [US]",
+    "placing": 843
+  },
+  {
+    "name": "James Jordan [US]",
+    "placing": 844
+  },
+  {
+    "name": "Bryce Davis [US]",
+    "placing": 845
+  },
+  {
+    "name": "Joshua Llamas [US]",
+    "placing": 846
+  },
+  {
+    "name": "Zachary Bollinger [US]",
+    "placing": 847
+  },
+  {
+    "name": "Conner Isaacs [US]",
+    "placing": 848
+  },
+  {
+    "name": "Steven Roth [US]",
+    "placing": 849
+  },
+  {
+    "name": "Chandler Brtek [US]",
+    "placing": 850
+  },
+  {
+    "name": "Deakota Hall [US]",
+    "placing": 851
+  },
+  {
+    "name": "Matthew Dugger [US]",
+    "placing": 852
+  },
+  {
+    "name": "Ben Fahrmeier [US]",
+    "placing": 853
+  },
+  {
+    "name": "Will Mandrola [US]",
+    "placing": 854
+  },
+  {
+    "name": "Jonathan Acosta [US]",
+    "placing": 855
+  },
+  {
+    "name": "Louie Alvarez [US]",
+    "placing": 856
+  },
+  {
+    "name": "Carter Elgie [US]",
+    "placing": 857
+  },
+  {
+    "name": "Alejandro Gomez [US]",
+    "placing": 858
+  },
+  {
+    "name": "Zach Nolan [US]",
+    "placing": 859
+  },
+  {
+    "name": "Dan Pickard-Carlisle [US]",
+    "placing": 860
+  },
+  {
+    "name": "Casey Robbins [US]",
+    "placing": 861
+  },
+  {
+    "name": "Taz Haque [US]",
+    "placing": 862
+  },
+  {
+    "name": "Connor Weed [US]",
+    "placing": 863
+  },
+  {
+    "name": "Deven Vallabhbhai [US]",
+    "placing": 864
+  },
+  {
+    "name": "Seth Mays [US]",
+    "placing": 865
+  },
+  {
+    "name": "Meghan Mathis [US]",
+    "placing": 866
+  },
+  {
+    "name": "Sydney Harder [US]",
+    "placing": 867
+  },
+  {
+    "name": "William Barnett [US]",
+    "placing": 868
+  },
+  {
+    "name": "Matt Francis [US]",
+    "placing": 869
+  },
+  {
+    "name": "Will QUATTRONE [US]",
+    "placing": 870
+  },
+  {
+    "name": "Hayden Skinner-Fine [US]",
+    "placing": 871
+  },
+  {
+    "name": "Angel Walker [US]",
+    "placing": 872
+  },
+  {
+    "name": "Andy Bennett [US]",
+    "placing": 873
+  },
+  {
+    "name": "Jakob Sprague [US]",
+    "placing": 874
+  },
+  {
+    "name": "Darryl Brice [US]",
+    "placing": 875
+  },
+  {
+    "name": "Vienna Grimwood [US]",
+    "placing": 876
+  },
+  {
+    "name": "Joshua Salter [US]",
+    "placing": 877
+  },
+  {
+    "name": "Daniel Minth [US]",
+    "placing": 878
+  },
+  {
+    "name": "Seth Marceau [US]",
+    "placing": 879
+  },
+  {
+    "name": "Nathan Earnest [US]",
+    "placing": 880
+  },
+  {
+    "name": "Meghan Hyman [US]",
+    "placing": 881
+  },
+  {
+    "name": "Paul Franklin [US]",
+    "placing": 882
+  },
+  {
+    "name": "Iyla Sutherland [US]",
+    "placing": 883
+  },
+  {
+    "name": "Christopher Bertrand [US]",
+    "placing": 884
+  },
+  {
+    "name": "James Kelley [US]",
+    "placing": 885
+  },
+  {
+    "name": "Kevin Long [US]",
+    "placing": 886
+  },
+  {
+    "name": "Luke Coleman [US]",
+    "placing": 887
+  },
+  {
+    "name": "Patrick Spitzer [US]",
+    "placing": 888
+  },
+  {
+    "name": "Marissa Lawrence [US]",
+    "placing": 889
+  },
+  {
+    "name": "Skyler Harrrell [US]",
+    "placing": 890
+  },
+  {
+    "name": "Carter Lewis [US]",
+    "placing": 891
+  },
+  {
+    "name": "Ifeanyi Okafor [US]",
+    "placing": 892
+  },
+  {
+    "name": "Cameron Kicak [US]",
+    "placing": 893
+  },
+  {
+    "name": "Rafael Carrillo Rosas [US]",
+    "placing": 894
+  },
+  {
+    "name": "Alexander Lanier [US]",
+    "placing": 895
+  },
+  {
+    "name": "Jonathan Lusk [US]",
+    "placing": 896
+  },
+  {
+    "name": "Donald Jervis [US]",
+    "placing": 897
+  },
+  {
+    "name": "Jake Simon [US]",
+    "placing": 898
+  },
+  {
+    "name": "Joey Boyle [US]",
+    "placing": 899
+  },
+  {
+    "name": "MICHAEL KUTZKE [US]",
+    "placing": 900
+  },
+  {
+    "name": "Timothy Totaram [CA]",
+    "placing": 901
+  },
+  {
+    "name": "Jackson Bucholtz [US]",
+    "placing": 902
+  },
+  {
+    "name": "Corey Rieser [US]",
+    "placing": 903
+  },
+  {
+    "name": "Benjamin Brickeen [US]",
+    "placing": 904
+  },
+  {
+    "name": "Richard Clark [US]",
+    "placing": 905
+  },
+  {
+    "name": "Jessica W. [US]",
+    "placing": 906
+  },
+  {
+    "name": "Josh Robinson [US]",
+    "placing": 907
+  },
+  {
+    "name": "Timothy Hall [US]",
+    "placing": 908
+  },
+  {
+    "name": "Chris Neikirk [US]",
+    "placing": 909
+  },
+  {
+    "name": "Josh Riley [US]",
+    "placing": 910
+  },
+  {
+    "name": "Jordan Duprey [US]",
+    "placing": 911
+  },
+  {
+    "name": "Jeffrey Honea [US]",
+    "placing": 912
+  },
+  {
+    "name": "Zachary Deffenbaugh [US]",
+    "placing": 913
+  },
+  {
+    "name": "Nick Moran [US]",
+    "placing": 914
+  },
+  {
+    "name": "Cory Craven [US]",
+    "placing": 915
+  },
+  {
+    "name": "Mikal Mahoney [US]",
+    "placing": 916
+  },
+  {
+    "name": "John Kevin Williams [US]",
+    "placing": 917
+  },
+  {
+    "name": "jd mckaskle [US]",
+    "placing": 918
+  },
+  {
+    "name": "Joshua Pelnar [US]",
+    "placing": 919
+  },
+  {
+    "name": "Mark Hale Jr. [US]",
+    "placing": 920
+  },
+  {
+    "name": "Ryan Summers [US]",
+    "placing": 921
+  },
+  {
+    "name": "Victor Logan [US]",
+    "placing": 922
+  },
+  {
+    "name": "Bo Quel [US]",
+    "placing": 923
+  },
+  {
+    "name": "Isabella Objio [US]",
+    "placing": 924
+  },
+  {
+    "name": "John Dougherty [US]",
+    "placing": 925
+  },
+  {
+    "name": "Logan Cordes [US]",
+    "placing": 926
+  },
+  {
+    "name": "Zachary Nicely [US]",
+    "placing": 927
+  },
+  {
+    "name": "neelix crain [US]",
+    "placing": 928
+  },
+  {
+    "name": "Daryl Gessler [US]",
+    "placing": 929
+  },
+  {
+    "name": "Tanner Nelson [US]",
+    "placing": 930
+  },
+  {
+    "name": "Heath Price [US]",
+    "placing": 931
+  },
+  {
+    "name": "Johnny Llewellyn [US]",
+    "placing": 932
+  },
+  {
+    "name": "Aaron Morrison [US]",
+    "placing": 933
+  },
+  {
+    "name": "Eslliey Tan [US]",
+    "placing": 934
+  },
+  {
+    "name": "karrar al-kanass [US]",
+    "placing": 935
+  },
+  {
+    "name": "Jacob Curnett [US]",
+    "placing": 936
+  },
+  {
+    "name": "Mia Kuntz [US]",
+    "placing": 937
+  },
+  {
+    "name": "Cameron Farmer [US]",
+    "placing": 938
+  },
+  {
+    "name": "Tony Morgan [US]",
+    "placing": 939
+  },
+  {
+    "name": "Brian Villagran Mata [US]",
+    "placing": 940
+  },
+  {
+    "name": "Eric Payne [US]",
+    "placing": 941
+  },
+  {
+    "name": "Noah Clark [US]",
+    "placing": 942
+  },
+  {
+    "name": "Aran Arab [US]",
+    "placing": 943
+  },
+  {
+    "name": "Harold Houchin [US]",
+    "placing": 944
+  },
+  {
+    "name": "Andrew Hartley [US]",
+    "placing": 945
+  },
+  {
+    "name": "Corey Weidner [US]",
+    "placing": 946
+  },
+  {
+    "name": "Steven Williams [US]",
+    "placing": 947
+  },
+  {
+    "name": "Zachary Aiken [US]",
+    "placing": 948
+  },
+  {
+    "name": "Alex Landry [US]",
+    "placing": 949
+  },
+  {
+    "name": "ShaDaizia Aiken [US]",
+    "placing": 950
+  },
+  {
+    "name": "Raphael Schoonover [US]",
+    "placing": 951
+  },
+  {
+    "name": "John Kerber [US]",
+    "placing": 952
+  },
+  {
+    "name": "Jared Line [US]",
+    "placing": 953
+  },
+  {
+    "name": "John Biamonte [US]",
+    "placing": 954
+  },
+  {
+    "name": "Andrew Eales [US]",
+    "placing": 955
+  },
+  {
+    "name": "Brenden Hudson [US]",
+    "placing": 956
+  },
+  {
+    "name": "Paul Voils [US]",
+    "placing": 957
+  },
+  {
+    "name": "Sean Michael Brown [US]",
+    "placing": 958
+  },
+  {
+    "name": "Nathan Durham [US]",
+    "placing": 959
+  },
+  {
+    "name": "alex landry [US]",
+    "placing": 960
+  },
+  {
+    "name": "Crystal Goode [US]",
+    "placing": 961
+  },
+  {
+    "name": "Sara Sabo [US]",
+    "placing": 962
+  },
+  {
+    "name": "Cedar Miller [US]",
+    "placing": 963
+  },
+  {
+    "name": "Michael Barrett [US]",
+    "placing": 964
+  },
+  {
+    "name": "Brendan Acre [US]",
+    "placing": 965
+  },
+  {
+    "name": "Dylan Osborne [US]",
+    "placing": 966
+  },
+  {
+    "name": "Benji Carney [US]",
+    "placing": 967
+  },
+  {
+    "name": "Ryan Roby [US]",
+    "placing": 968
+  },
+  {
+    "name": "Michaela Grilliot [US]",
+    "placing": 969
+  },
+  {
+    "name": "Dominique Carter [US]",
+    "placing": 970
+  },
+  {
+    "name": "Chris Bishop [US]",
+    "placing": 971
+  },
+  {
+    "name": "Adam Easterday [US]",
+    "placing": 972
+  },
+  {
+    "name": "Brendan Smith [US]",
+    "placing": 973
+  },
+  {
+    "name": "Michael Holloway [US]",
+    "placing": 974
+  },
+  {
+    "name": "Austin Mullanack [US]",
+    "placing": 975
+  },
+  {
+    "name": "Philip Judd [US]",
+    "placing": 976
+  },
+  {
+    "name": "Jarrett Noblitt [US]",
+    "placing": 977
+  },
+  {
+    "name": "Jacob Gresk [US]",
+    "placing": 978
+  },
+  {
+    "name": "Jose Arteaga [US]",
+    "placing": 979
+  },
+  {
+    "name": "elijah castillo-esper [US]",
+    "placing": 980
+  },
+  {
+    "name": "Adam Azaiez [US]",
+    "placing": 981
+  },
+  {
+    "name": "Eric Shoopman [US]",
+    "placing": 982
+  },
+  {
+    "name": "Tyler Beatty [US]",
+    "placing": 983
+  },
+  {
+    "name": "Jackson Cole [US]",
+    "placing": 984
+  },
+  {
+    "name": "Abigale Wynn [US]",
+    "placing": 985
+  },
+  {
+    "name": "Adam Clements [US]",
+    "placing": 986
+  },
+  {
+    "name": "Dreki Grey [US]",
+    "placing": 987
+  },
+  {
+    "name": "Anthony Mubiala [US]",
+    "placing": 988
+  },
+  {
+    "name": "Sean Flatten [US]",
+    "placing": 989
+  },
+  {
+    "name": "Camey Gardner [US]",
+    "placing": 990
+  },
+  {
+    "name": "Avery George [US]",
+    "placing": 991
+  },
+  {
+    "name": "Cody Goble [US]",
+    "placing": 992
+  },
+  {
+    "name": "Zach Ferrel [US]",
+    "placing": 993
+  },
+  {
+    "name": "Calvin Nisson [US]",
+    "placing": 994
+  },
+  {
+    "name": "Edgar Mendez [CA]",
+    "placing": 995
+  },
+  {
+    "name": "Riley Meza [US]",
+    "placing": 996
+  },
+  {
+    "name": "Dustin Clark [US]",
+    "placing": 997
+  },
+  {
+    "name": "Robert Farley [US]",
+    "placing": 998
+  },
+  {
+    "name": "Toph Robinson [US]",
+    "placing": 999
+  },
+  {
+    "name": "Kyle Wilkinson [US]",
+    "placing": 1000
+  },
+  {
+    "name": "Kevin Kosmider [US]",
+    "placing": 1001
+  },
+  {
+    "name": "Ryan Patterson [US]",
+    "placing": 1002
+  },
+  {
+    "name": "Collin Agarwal [US]",
+    "placing": 1003
+  },
+  {
+    "name": "Jasmine Sateriale [US]",
+    "placing": 1004
+  },
+  {
+    "name": "Charles Floyd Jr [US]",
+    "placing": 1005
+  },
+  {
+    "name": "Carter Hewitt [US]",
+    "placing": 1006
+  },
+  {
+    "name": "Noel Castillon [US]",
+    "placing": 1007
+  },
+  {
+    "name": "Evan Wilcher [US]",
+    "placing": 1008
+  },
+  {
+    "name": "Austin Frisby [US]",
+    "placing": 1009
+  },
+  {
+    "name": "Sophia Maazouzi [US]",
+    "placing": 1010
+  },
+  {
+    "name": "Blue Davis [US]",
+    "placing": 1011
+  },
+  {
+    "name": "Tyler McNeal [US]",
+    "placing": 1012
+  },
+  {
+    "name": "Juan Guzman [US]",
+    "placing": 1013
+  },
+  {
+    "name": "Austin Linder [US]",
+    "placing": 1014
+  }
+]
